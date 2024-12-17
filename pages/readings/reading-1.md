@@ -8,6 +8,7 @@ permalink: /readings/reading-1
 ---
 
 # Reading 1
+#test
 
 - Donoho D, 50 Years of Data Science <a href="https://s3.us-west-2.amazonaws.com/ucsd.cogs9/readings/r1-Donoho-2017-50-Years-of-Data-Science.pdf" target="_blank" rel="noopener">download &#x2197;</a>
 
