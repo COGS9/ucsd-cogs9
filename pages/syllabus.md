@@ -17,17 +17,16 @@ permalink: /syllabus/
 ## Course Materials
 - There is **no** textbook
 - All course materials are provided through **this website**
-- ClassQuestion will be used for iecture polling and attedance
 - Piazza will be used for general Q&A
 - Gradescope will be used for assignment/project submissions and taking quizzes/exams
 
 ## Course Objectives
-- Comprehend core data science concepts and examine their applications
-- Discuss data privacy and ethical concerns with real-world examples
-- Identify data science questions and the appropriate analytic approach to answering those questions
-- Communicate data-related topics and projects
-- Demonstrate how to think critically about data, and how to approach problems with a "data-first" mindset
+- Understand core data science concepts and examine their application
+- Learn to think critically about data, and how to approach problems with a “data-first” mindset
+- Introduce the basics of data visualization and practice basic storytelling about data
 - Describe potential pitfalls of data analyses, how to identify them, and how to avoid them
+- Discuss data privacy and ethical concerns with real-world examples
+- Explain examples of real-world data science projects that have been pivotal for understanding aspects of human behavior, language, and society that have helped scientific progress, and business
 
 ## Grading & Attendance
 
