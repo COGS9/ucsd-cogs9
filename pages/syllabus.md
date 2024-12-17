@@ -21,12 +21,12 @@ permalink: /syllabus/
 - Gradescope will be used for assignment/project submissions and taking quizzes/exams
 
 ## Course Objectives
-- Understand core data science concepts and examine their application
-- Learn to think critically about data, and how to approach problems with a “data-first” mindset
+- Understand core data science concepts and examine their application in cognitive science
+- Learn to think critically about cognitive science datasets, and how to approach problems with a “data-first” mindset
 - Introduce the basics of data visualization and practice basic storytelling about data
 - Describe potential pitfalls of data analyses, how to identify them, and how to avoid them
 - Discuss data privacy and ethical concerns with real-world examples
-- Explain examples of real-world data science projects that have been pivotal for understanding aspects of human behavior, language, and society that have helped scientific progress, and business
+- Explain examples of real-world data science projects that have been pivotal for understanding aspects of neuroscience, human behavior, language, and society that have helped scientific progress
 
 ## Grading & Attendance
 
@@ -85,16 +85,16 @@ Discussion attendance is not mandatory. Readings will be discussed and lecture m
 
 
 ## Course Assignments & Topics
-This class is a survey course intended to get you all excited about becoming data scientists! Data are everywhere and they’re being used in tried-and-true, new, and creative ways. This course will introduce you to the broad topics in data science, discuss what it means to be a data scientist, and get you on your way to thinking like a data scientist.
+This class is a survey course intended to get you all excited about becoming data scientists! Data are everywhere and they’re being used in tried-and-true, new, and creative ways. This course will introduce you to the broad topics in data science in the context of cognitive science, discuss what it means to be a data scientist, and get you on your way to thinking like a data scientist.
 
 ### Readings & Quizzes
 Quizzes cover the reading material assigned, e.g. Quiz 1 only covers material from reading 1 (R1).
 
-- Five multiple choice (10 questions) quizzes
+- Four multiple choice (10 questions) quizzes
 - Available for 48 hours
 - You have 1 hour to finish
 - One attempt
-- Open notes, but you must work alone.
+- Open notes, but you must work alone
 - Taken and submitted through Gradescope
 
 Your lowest quiz score will be dropped when calculating your final grade. Late reading quizzes will be accepted up to 48 hours; however, they will receive ½ credit.
@@ -104,28 +104,30 @@ Your lowest quiz score will be dropped when calculating your final grade. Late r
 Assignments will focus on applying the concepts covered in lectures and readings. 
 
 - Three individual assignments submitted through Gradescope
-- Use the Google Doc template link (found on this website under assignments), **make a copy of the template**. You do not have edit access to the version that is linked, only the ability to copy it.
+- Use the Google Doc template link (found on this website under assignments), **make a copy of the template**. You do not have edit access to the version that is linked, only the ability to copy it
 - One PDF submission per student (ensure your name and PID are on the PDF)
-- You may resubmit as many times as you like before the deadline.
-- Late assignments have 5 points deducted within the first 24 hours, and an additional 5 points during the following 24 hours.
-- No late assignments accepted after 48 hours.
+- You may resubmit as many times as you like before the deadline
+- Late assignments have 5 points deducted within the first 24 hours, and an additional 5 points during the following 24 hours
+- No late assignments accepted after 48 hours
 
 ### Final Project
-The final project is a two-part report on how you would handle a complicated data science project. It’s a culmination of what you learned from the assignments and lectures.
+The final project is a two-section report on how you would handle a complicated data science project. It’s a culmination of what you have learned from the assignments and lectures.
 
-- One report submitted through Gradescope per group
+- One report (per section) submitted through Gradescope per group
 - One PDF submission per group (ensure all your names and PIDs are on the PDF)
 - Your team may resubmit as many times as you like before the deadline
 - Late submissions:
-  - Late assignments have 5 points deducted within the first 24 hours, and an additional 5 points during the following 24 hours.
-  - No late assignments accepted after 48 hours.
-
+  - Late assignments have 5 points deducted within the first 24 hours, and an additional 5 points during the following 24 hours
+  - No late assignments accepted after 48 hours
+  - The project will be undertaken by groups of 3-5 - this range is strict to ensure fair assessment across groups
+  - Once your group is chosen, email Dr Burrows with your group members
+  - Any changes to the group must be confirmed through Dr Burrows first
+  - Anyone who is unable to find a group can contact Dr Burrows or any of the TAs and you will be allocated one
+ 
 Your final will include your data science question as well as all the nitty gritty, whys, and hows of the data science project you have chosen. You’ll write about your data science question, find some example data, summarize the data, explain how you would wrangle the data to answer your data science question, and describe the types of analysis you would carry out to answer your question of interest. You **WILL NOT** have to actually perform the analysis to answer the question, nor wrangle data, you only write about how you would perform the analysis and what you expect the outcomes will be.
 
 {: .note .fs-2 }
 To reiterate, your team will make a copy of my Google document template and work on that copy together. Make sure to read all the instructions. Your team may resubmit as many times as you want up until the submission deadline. You will receive feedback along with a grade typically within a week for part 1. Feedback from us should be incorporated into part 2 of the final.
-
-
 
 ### Exam
 The final exam is comprehensive and will cover the lectures (and possibly guest lectures). An exam review session will be held during discussion section week 10.
@@ -177,7 +179,7 @@ Contacting the OSD can help you further:
 
 ### Difficult Life Situations
 
-Sometimes life outside of academia can be difficult. Please [email me](mailto:sellis@ucsd.edu) or come to office hours if stuff outside the classroom prevents you from doing well inside it. I can often refer you on to the help you need.
+Sometimes life outside of academia can be difficult. Please [email me](mailto:dburrows@ucsd.edu) or come to office hours if stuff outside the classroom prevents you from doing well inside it. I can often refer you on to the help you need.
 
 If you don't have the most essential resources required to thrive as a student, please contact [UCSD Basic Needs](https://basicneeds.ucsd.edu) who can help you access nutritious food and stable housing, and help you seek the means to reach financial wellness.
 
@@ -189,10 +191,10 @@ If you need counseling or if you are in a mental crisis you can contact [CAPS](h
 **How to Get Your Question(s) Answered and/or Provide Feedback**
 It’s great that we have many ways to communicate, but it can get tricky to figure out who to contact or where your question belongs, or when to expect a response. These guidelines are to help you get your question answered as quickly as possible and to ensure that we’re able to get to everyone’s questions.
 
-That said, to ensure that we’re respecting their time, TAs and IAs have been instructed they’re only obligated to answer questions between normal working hours (M-F 9am-5pm). However, I know that’s not when you may be doing your work. So, please feel free to reach out whenever is best for you while knowing that, you may not get a response until the next day. As such, do your best not to wait until the last minute to ask a question. If there is an emergency and you need to contact staff immediately, email Prof Ellis and put "EMERGENCY-COGS9" in the subject line. I will get back to you ASAP.
+That said, to ensure that we’re respecting their time, TAs and IAs have been instructed they’re only obligated to answer questions between normal working hours (M-F 9am-5pm). However, I know that’s not when you may be doing your work. So, please feel free to reach out whenever is best for you while knowing that, you may not get a response until the next day. As such, do your best not to wait until the last minute to ask a question. If there is an emergency and you need to contact staff immediately, email Dr Burrows and put "EMERGENCY-COGS9" in the subject line. I will get back to you ASAP.
 
 If you have…
 - **questions about course content** - these are awesome! We want everyone to see them and have their questions answered, please post questions on Piazza or ask during class/office hours.
 - **questions about course logistics** - first, check the syllabus. If the answer is not there, ask in Section, ask a classmate, or ask during class/office hours.
-- **something super cool to share related to class** - feel free message on Piazza, email Prof Ellis [sellis@ucsd.edu](sellis@ucsd.edu)), or come to office hours. Be sure to include COGS 9 in the email subject line and your full name in your message.
-- **something you want to talk about in-depth** - meet in person/digitally during office hours or schedule a time to meet 1:1 by email. Be sure to include COGS 9 in the email subject line. Or it may be missed. [sellis@ucsd.edu](sellis@ucsd.edu). 
+- **something super cool to share related to class** - feel free message on Piazza, email Dr Burrows [dburrows@ucsd.edu](dburrows@ucsd.edu)), or come to office hours. Be sure to include COGS 9 in the email subject line and your full name in your message.
+- **something you want to talk about in-depth** - meet in person/digitally during office hours or schedule a time to meet 1:1 by email. Be sure to include COGS 9 in the email subject line. Or it may be missed. [dburrows@ucsd.edu](dburrows@ucsd.edu). 
