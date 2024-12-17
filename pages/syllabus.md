@@ -35,11 +35,11 @@ permalink: /syllabus/
 |                                               | % of Total Grade |   200 Total Points |
 |:----------------------------------------------|:-----------------|:-------------------|
 | 3 Assignments                                 |               30 |      60 (20 each)  |
-| 5 Reading Quizzes (lowest quiz score dropped) |               20 |      40 (10 each)  |
+| 4 Reading Quizzes (lowest quiz score dropped) |               15 |      30 (10 each)  |
 | Final Project pt. 1                           |               10 |               20   |
 | Final Project pt. 2                           |               20 |               40   |
 | 1 Final Exam                                  |               20 |               40   |
-| Extra Credit                                  |              N/A |          5 (bonus) |
+| Guest lecture attendance                      |                5 |               10   |
 
 ### Final Grades
 
@@ -61,10 +61,9 @@ Your letter grade will be determined using the following grading scale:
 | 60-62%                  | D-                        |
 | <60%                    | F                         |
 
-Given the amount of extra credit offered throughout the quarter, grades are not rounded up.
 
 ### Grades
-Grades are released on Gradescope a week after the submission date and sometimes sooner. Ultimately it is your responsibility to check your final grade and get in touch if you believe there is a problem.
+Grades are released on Gradescope often a week after the submission date and sometimes sooner. Ultimately it is your responsibility to check your final grade and get in touch if you believe there is a problem. Grades are not rounded up. 
 
 ### Regrade Policy
 The regrade policy is here to protect students from serious issues in grading, not to provide students with a platform to argue about, or plead for an extra point. In our experience less than 3% of the time a regrade results in a change. When we regrade, we closely go through the entire assignment again and reevaluate it as a whole. This means your grade can either stay the same, go up, or go down. This is not to discourage students from requesting legitimate regrades, but to discourage students from arguing about 1 point (which is worth 0.05% of your grade). These discussions require a serious investment of time. We want to spend that time on regrades where a serious issue has occurred or with helping students learn the material outside of class.
