@@ -39,7 +39,8 @@ permalink: /syllabus/
 | Final Project pt. 1                           |               10 |               20   |
 | Final Project pt. 2                           |               20 |               40   |
 | 1 Final Exam                                  |               20 |               40   |
-| Guest lecture attendance                      |                5 |               10   |
+| Guest Lecture Attendance                      |              2.5 |                5   |
+| Extra Credit Attendance                       |              2.5 |                5   |
 
 ### Final Grades
 
@@ -77,10 +78,11 @@ The regrade policy is here to protect students from serious issues in grading, n
 ### Lecture Attendance
 Our goal is to make lectures and office hours worthwhile to attend (e.g. we do in-class exercises). However, lecture attendance is not required. All lectures will be recorded. These will be made available to you (UCSD podcast). 
 
-That said, we have found that students who come to lecture and are engaged fully learn the most (which is our goal!). We also know that students have a lot on their plate (which is why we don't *require* attendance). To this end, we will incentivize lecture attendance. Students who attend 75% of all lectures throughout the quarter will have their lowest assignment score replaced with full credit. Attendance will be tracked through student responses using the ClassQuestion app. To earn credit for a given class day, you must respond to at least 50% of the day's questions. (Correctness does not matter.)
+That said, we have found that students who come to lecture and are engaged fully learn the most (which is our goal!). We also know that students have a lot on their plate (which is why we don't *require* attendance). To this end, we will incentivize lecture attendance. **Students who attend 75% of all lectures throughout the quarter will get extra credit** (see Course Components & Points). Attendance will be tracked through student responses using the ClassQuestion app. To earn credit for a given class day, you must respond to at least 50% of the day's questions. (Correctness does not matter.) That said, **attendance is required on guest lecture days**, and attendance at all guest lectures will constitute your Guest Lecture attendance grade.
 
-### Section Attendance
-Section attendance is not mandatory, however, **if you attend section the week a reading quiz is due, your attendance will earn you full credit for that week's reading quiz**. You *must* fill out the Google Form attendance form in discussion section to earn this credit. We encourage you to also take the corresponding quiz to test your understanding; however, *taking the quiz is not required if you attend section*. Further, groups will be created within sections (usually week 2), so it is helpful to attend discussion section that week. Readings will be discussed and lecture material will be reviewed in section, so it is to your benefit to go, participate, and ask questions.
+### Discussion Attendance
+Discussion attendance is not mandatory. Readings will be discussed and lecture material will be reviewed in section, so it is to your benefit to go, participate, and ask questions.
+
 
 ## Course Assignments & Topics
 This class is a survey course intended to get you all excited about becoming data scientists! Data are everywhere and they’re being used in tried-and-true, new, and creative ways. This course will introduce you to the broad topics in data science, discuss what it means to be a data scientist, and get you on your way to thinking like a data scientist.
