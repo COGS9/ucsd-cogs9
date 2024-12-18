@@ -30,8 +30,7 @@ nav_order: 1
 {{ variables.timings }}
 {: .md-badge-purple }
 
-{{ variables.website }}
-{: .md-badge-purple }
+[Visit Website]({{ variables.website }}){: .md-badge-purple .button }
 
 ## Welcome <span title="https://jarv.is/" class="wave">👋</span> 
 
