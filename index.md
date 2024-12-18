@@ -19,7 +19,7 @@ nav_order: 1
 # Introduction to Data Science
 
 {: .text-grey-dk-300 .fw-300 .lh-0 }
-## COGS 9 - UC San Diego - Prof. Shannon Ellis
+## COGS 9 - UC San Diego - Dr. Dominic Burrows
 
 {{ variables.quarter }}
 {: .md-badge-purple }
@@ -38,7 +38,7 @@ We look forward to teaching and working with all of you and hope to meet you in 
 {: .fs-3 }
 
 {: .note .fs-2 }
-Our staff try to enroll as many students from the waitlist as possible during Week one. Prof does not have access to the waitlist or the ability to directly enroll anyone into the class, so please email [{{ variables.cogsadvising }}](mailto:{{ variables.cogsadvising }}) with further questions.
+Our staff try to enroll as many students from the waitlist as possible during Week one. Dr burrows does not have access to the waitlist or the ability to directly enroll anyone into the class, so please email [{{ variables.cogsadvising }}](mailto:{{ variables.cogsadvising }}) with further questions.
 
 ## Discussion Sections
 
