@@ -13,15 +13,19 @@ permalink: /office-hours/
 
 **Instructor** <br/> {{ variables.instructor.name }} - [{{ variables.instructor.email }}](mailto:{{ variables.instructor.email }})
 
-**Teaching Assistants (TAs)**
-{% for ta in variables.teaching_assistants %} <br/> {{ ta.name }} - [{{ ta.email }}](mailto:{{ ta.email }}) {% endfor %}
+**Teaching Assistants (TAs)**  
+{% for ta in variables.teaching_assistants %}  
+&nbsp;&nbsp;&nbsp;&nbsp;{{ ta.name }} - [{{ ta.email }}](mailto:{{ ta.email }})  
+{% endfor %}
 
-**Instructional Assistants (IAs)**
-{% for ia in variables.instructional_assistants %} <br/> {{ ia.name }} - [{{ ia.email }}](mailto:{{ ia.email }}) {% endfor %}
+**Instructional Assistants (IAs)**  
+{% for ia in variables.instructional_assistants %}  
+&nbsp;&nbsp;&nbsp;&nbsp;{{ ia.name }} - [{{ ia.email }}](mailto:{{ ia.email }})  
+{% endfor %}
+
 <!-- {: .fs-3 } -->
 
 # Office Hours
-
 
 Office hours are a great place to personally interact. Beyond projects and course material, we are interested in your goals, career endeavors, and what you want to gain from COGS 9. Data Science is a rapidly changing field and there is always a lot to discuss!
 
@@ -31,42 +35,39 @@ Office hours are a great place to personally interact. Beyond projects and cours
             <th style="width: 40%;"> Staff </th>
             <th style="width: 30%;"> Day & Time </th>
             <th style="width: 30%;"> Location </th>
-            <!-- <th style="width: 12.5%;"> Link </th> -->
-            <!-- <th style="width: 12.5%;"> Pass </th> -->
         </tr>
     </thead>
     <tbody>
+        <!-- Instructor's Office Hours -->
         {% for oh in variables.instructor.office_hours %}
         <tr>
             <td> {{ variables.instructor.name }} </td>
             <td> {{ oh.day }} {{ oh.time }} </td>
             <td> {{ oh.location }} </td>
-            <!-- <td> <a href='{{ oh.zoom_link }}' target="_blank" rel="noopener">Join &#x2197;</a> </td> -->
-            <!-- <td> {% if oh.zoom_pw %} {{ oh.zoom_pw }} {% endif %} </td> -->
         </tr>
         {% endfor %}
-        {% for row in variables.teaching_assistants %}
-            {% for oh in row.office_hours %}
+
+        <!-- Teaching Assistants' Office Hours -->
+        {% for ta in variables.teaching_assistants %}
+            {% for oh in ta.office_hours %}
             <tr>
-                <td> {{ row.name }} </td>
+                <td> {{ ta.name }} </td>
                 <td> {{ oh.day }} {{ oh.time }} </td>
                 <td> {{ oh.location }} </td>
-                <!-- <td> <a href='{{ oh.zoom_link }}' target="_blank" rel="noopener">Join &#x2197;</a> </td> -->
-                <!-- <td> {% if oh.zoom_pw %} {{ oh.zoom_pw }} {% endif %} </td> -->
             </tr>
             {% endfor %}
         {% endfor %}
-        <!-- {% for row in variables.instructional_assistants %} -->
-            <!-- {% for oh in row.office_hours %} -->
-            <!-- <tr> -->
-                <!-- <td> {{ row.name }} </td> -->
-                <!-- <td> {{ oh.day }} {{ oh.time }} </td> -->
-                <!-- <td> {{ oh.location }} </td> -->
-                <!-- <td> <a href='{{ oh.zoom_link }}' target="_blank" rel="noopener">Join &#x2197;</a> </td> -->
-                <!-- <td> {% if oh.zoom_pw %} {{ oh.zoom_pw }} {% endif %} </td> -->
-            <!-- </tr> -->
-            <!-- {% endfor %} -->
-        <!-- {% endfor %} -->
+
+        <!-- Instructional Assistants' Office Hours -->
+        {% for ia in variables.instructional_assistants %}
+            {% for oh in ia.office_hours %}
+            <tr>
+                <td> {{ ia.name }} </td>
+                <td> {{ oh.day }} {{ oh.time }} </td>
+                <td> {{ oh.location }} </td>
+            </tr>
+            {% endfor %}
+        {% endfor %}
     </tbody>
 </table>
 
