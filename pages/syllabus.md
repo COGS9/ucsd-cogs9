@@ -81,7 +81,7 @@ Our goal is to make lectures and office hours worthwhile to attend (e.g. we do i
 That said, we have found that students who come to lecture and are engaged fully learn the most (which is our goal!). We also know that students have a lot on their plate (which is why we don't *require* attendance). To this end, we will incentivize lecture attendance. **Students who attend 75% of all lectures throughout the quarter will get extra credit** (see Course Components & Points). Attendance will be tracked through student responses using the ClassQuestion app. To earn credit for a given class day, you must respond to at least 50% of the day's questions. (Correctness does not matter.) That said, **attendance is required on guest lecture days**, and attendance at all guest lectures will constitute your Guest Lecture attendance grade.
 
 ### Discussion Attendance
-Discussion attendance is not mandatory. Readings will be discussed and lecture material will be reviewed in section, so it is to your benefit to go, participate, and ask questions.
+Discussion attendance is not mandatory. Readings will be discussed and lecture material will be reviewed in section, so it is to your benefit to go, participate, and ask questions. Also final group projects will be formed and assigned in week 2 discussion section so please attend this. 
 
 
 ## Course Assignments & Topics
@@ -120,10 +120,12 @@ The final project is a two-section report on how you would handle a complicated 
   - Late assignments have 5 points deducted within the first 24 hours, and an additional 5 points during the following 24 hours
   - No late assignments accepted after 48 hours
   - The project will be undertaken by groups of 3-5 - this range is strict to ensure fair assessment across groups
+  - During week 2, project groups will be formed during discussion section
+  - If you are not able to attend section this week, you will be placed into a group by the end of the week
   - Once your group is chosen, email Dr Burrows with your group members
-  - Any changes to the group must be confirmed through Dr Burrows first
+  - Any changes to the group must be confirmed through your TA/IA
   - Anyone who is unable to find a group can contact Dr Burrows or any of the TAs and you will be allocated one
- 
+
 Your final will include your data science question as well as all the nitty gritty, whys, and hows of the data science project you have chosen. You’ll write about your data science question, find some example data, summarize the data, explain how you would wrangle the data to answer your data science question, and describe the types of analysis you would carry out to answer your question of interest. You **WILL NOT** have to actually perform the analysis to answer the question, nor wrangle data, you only write about how you would perform the analysis and what you expect the outcomes will be.
 
 {: .note .fs-2 }
