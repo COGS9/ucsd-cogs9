@@ -4,25 +4,26 @@ date,title,label,link
 2025-01-10,Pre-Course survey due,EXTR,https://www.gradescope.com/courses/476408
 2025-01-14,Data Science Questions,LECT,https://s3.us-west-2.amazonaws.com/ucsd.cogs9/lecture-slides/03_Data_Science_Questions.pdf
 2025-01-16,Sampling & Reproducibility,LECT,https://s3.us-west-2.amazonaws.com/ucsd.cogs9/lecture-slides/04_Reproducibility.pdf
+2025-02-28,Quiz 1 due,QUIZ,https://www.gradescope.com/courses/476408
 2025-01-21,Data,LECT,https://s3.us-west-2.amazonaws.com/ucsd.cogs9/lecture-slides/05_Data.pdf
 2025-01-23,Programming for Data Science,LECT,https://youtube.com/playlist?list=PLD5-aTcdS37qPYQQxrMxIXyeNwxZmOLR9
-2025-01-24,Quiz 1 due,QUIZ,https://www.gradescope.com/courses/476408
+2025-01-24,Quiz 2 due,QUIZ,https://www.gradescope.com/courses/476408
 2025-01-28,Data Visualisation and Descriptive Analysis,LECT,https://s3.us-west-2.amazonaws.com/ucsd.cogs9/lecture-slides/07_Data_Wrangling.pdf
 2025-01-30,Exploratory Data Analysis,LECT,https://youtube.com/playlist?list=PLD5-aTcdS37qPYQQxrMxIXyeNwxZmOLR9
-2025-01-31,Quiz 2 due,QUIZ,https://www.gradescope.com/courses/476408
+2025-01-31,Quiz 3 due,QUIZ,https://www.gradescope.com/courses/476408
 2025-02-04,Communicating Data Science,LECT,https://s3.us-west-2.amazonaws.com/ucsd.cogs9/lecture-slides/11_Communicating_DataViz.pdf
 2025-02-06,Statistical Learning,LECT,https://s3.us-west-2.amazonaws.com/ucsd.cogs9/lecture-slides/10_EDA.pdf
 2025-02-07,Assignment 1 due,ASSG,https://www.gradescope.com/courses/476408
 2025-02-11,Classification vs Regression,LECT,https://s3.us-west-2.amazonaws.com/ucsd.cogs9/lecture-slides/11_Communicating_DataViz.pdf
 2025-02-13,Model Selection,LECT,https://s3.us-west-2.amazonaws.com/ucsd.cogs9/lecture-slides/12_Inference.pdf
-2025-02-14,Quiz 3 due,QUIZ,https://www.gradescope.com/courses/476408
+2025-02-14,Quiz 4 due,QUIZ,https://www.gradescope.com/courses/476408
 2025-02-14,Final Project Part 1 due,PROJ,https://www.gradescope.com/courses/476408
 2025-02-18,Dimensionality Reduction,LECT,https://s3.us-west-2.amazonaws.com/ucsd.cogs9/lecture-slides/13_machine_learning.pdf
 2025-02-20,Clustering,LECT,https://s3.us-west-2.amazonaws.com/ucsd.cogs9/lecture-slides/14_machine_learning_II.pdf
 2025-02-21,Assignment 2 due,ASSG,https://www.gradescope.com/courses/476408
 2025-02-25,Spatial Data Science in Neuroscience: Alon Gelber,GLCT,https://s3.us-west-2.amazonaws.com/ucsd.cogs9/lecture-slides/15_text_geospatial_analysis.pdf
 2025-02-27,Deep Learning,LECT,https://s3.us-west-2.amazonaws.com/ucsd.cogs9/lecture-slides/16_CompVis_Deconstruct_DS.pdf
-2025-02-28,Quiz 4 due,QUIZ,https://www.gradescope.com/courses/476408
+2025-02-28,Quiz 5 due,QUIZ,https://www.gradescope.com/courses/476408
 2025-03-04,Classification in Genetics Data: Mike Cuoco,GLCT,https://s3.us-west-2.amazonaws.com/ucsd.cogs9/lecture-slides/17_Algorithms_Computability.pdf
 2025-03-06,Natural Language Processing: Ross Devito,GLCT,https://s3.us-west-2.amazonaws.com/ucsd.cogs9/lecture-slides/18_Future_DS_Jobs.pdf
 2025-03-07,Assignment 3 due,ASSG,https://www.gradescope.com/courses/476408
