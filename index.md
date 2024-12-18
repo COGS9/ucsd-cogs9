@@ -21,7 +21,16 @@ nav_order: 1
 {: .text-grey-dk-300 .fw-300 .lh-0 }
 ## COGS 9 - UC San Diego - Dr. Dominic Burrows
 
-{{ variables.quarter }}{: .md-badge-purple } {{ variables.building }}{: .md-badge-purple } {{ variables.timings }}{: .md-badge-purple } [My Website]({{ variables.website }}){: .md-badge-purple .button }
+{{ variables.quarter }}
+{: .md-badge-purple }
+
+{{ variables.building }}
+{: .md-badge-purple }
+
+{{ variables.timings }}
+{: .md-badge-purple }
+
+[My Website]({{ variables.website }}){: .md-badge-purple .button }
 
 ## Welcome <span title="https://jarv.is/" class="wave">👋</span> 
 
