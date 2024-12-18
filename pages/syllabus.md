@@ -35,7 +35,7 @@ permalink: /syllabus/
 |                                               | % of Total Grade |   200 Total Points |
 |:----------------------------------------------|:-----------------|:-------------------|
 | 3 Assignments                                 |               30 |      60 (20 each)  |
-| 4 Reading Quizzes (lowest quiz score dropped) |               15 |      30 (10 each)  |
+| 5 Reading Quizzes (top 3 quiz scores used)    |               15 |      30 (10 each)  |
 | Final Project pt. 1                           |               10 |               20   |
 | Final Project pt. 2                           |               20 |               40   |
 | 1 Final Exam                                  |               20 |               40   |
@@ -90,14 +90,14 @@ This class is a survey course intended to get you all excited about becoming dat
 ### Readings & Quizzes
 Quizzes cover the reading material assigned, e.g. Quiz 1 only covers material from reading 1 (R1).
 
-- Four multiple choice (10 questions) quizzes
+- Five multiple choice (10 questions) quizzes
 - Available for 48 hours
 - You have 1 hour to finish
 - One attempt
 - Open notes, but you must work alone
 - Taken and submitted through Gradescope
 
-Your lowest quiz score will be dropped when calculating your final grade. Late reading quizzes will be accepted up to 48 hours; however, they will receive ½ credit.
+Your 2 lowest quiz score will be dropped when calculating your final grade. Late reading quizzes will be accepted up to 48 hours; however, they will receive ½ credit.
 
 
 ### Assignments
