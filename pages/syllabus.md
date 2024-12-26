@@ -135,10 +135,11 @@ To reiterate, your team will make a copy of my Google document template and work
 The final exam is comprehensive and will cover the lectures (and possibly guest lectures). An exam review session will be held during discussion section week 10.
 
 - One multiple-choice exam
-- Available for 72 hours on Gradescope
-- You have 2 continuous hours to finish once started
+- Available for 5 hours on Gradescope
+- You have 1 continuous hour to finish once started
 - One attempt
-- Open notes and open Google/ChatGPT/etc., but you must work alone
+- You must work alone
+- Open notes, but use of ChatGPT/AI chatbots strongly discouraged
 - Taken and submitted through Gradescope
 
 No late exams are permitted, except for extenuating circumstances. Please reach out to staff as early as possible if you know something will prevent you from taking the exam on time.
