@@ -73,8 +73,8 @@ instructional_assistants:
     office_hours:
       - day: Fri
         time: 10:30-11:30AM
-        location: NA
-        zoom_link: NA
+        location: Geisel 1W by Teaching+Learning Comms.
+        zoom_link: https://uchealth.zoom.us/j/84325316380
         zoom_pw:
 
 discussion_sections:
