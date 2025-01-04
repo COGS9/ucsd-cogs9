@@ -21,13 +21,13 @@ instructor:
 
 teaching_assistants:
   - name: Qisen Yang
-    email: q8yang@ucsd.edu
+    email: qsyang@ucsd.edu
     type: TA
     office_hours:
-      - day: NA
-        time: NA
-        location: NA
-        zoom_link: NA
+      - day: Mon
+        time: 5:00-6:00PM
+        location: DIB361
+        zoom_link: https://ucsd.zoom.us/j/9154753966
         zoom_pw:
   - name: Zhining Chen
     email: zhc008@ucsd.edu
