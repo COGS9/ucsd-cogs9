@@ -82,48 +82,48 @@ discussion_sections:
     day: Mon
     time: 9:00-9:50AM
     location: CENTR 222
-    Lead: Qisen
-    Support: Nicole
+    ta: Qisen
+    ia: Nicole
     materials: 
 
   - section: A02
     day: Mon
     time: 10:00-10:50AM
     location: CSB 004
-    Lead: Zhining
-    Support: Jiawei
+    ta: Zhining
+    ia: Jiawei
     materials: 
 
   - section: A03
     day: Mon
     time: 11:00-11:50AM
     location: CSB 004
-    Lead: Zhining
-    Support: Jiawei
+    ta: Zhining
+    ia: Jiawei
     materials: 
 
   - section: A04
     day: Mon
     time: 12:00-12:50PM
     location: MOS 0204
-    Lead: Nicole
-    Support: Jiawei
+    ta: Nicole
+    ia: Jiawei
     materials: 
 
   - section: A05
     day: Mon
     time: 4:00-4:50PM
     location: PCYNH 120
-    Lead: Qisen
-    Support: Derek, Ryan
+    ta: Qisen
+    ia: Derek, Ryan
     materials: 
 
   - section: A06
     day: Mon
     time: 2:00-2:50PM
     location: RWAC 0103
-    Lead: Derek
-    Support: Ryan
+    ta: Derek
+    ia: Ryan
     materials: 
 
     
