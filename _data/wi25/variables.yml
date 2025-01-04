@@ -40,7 +40,7 @@ teaching_assistants:
         zoom_pw:
 
 instructional_assistants:
-  - name: Nicole Tuelinh Huynh
+  - name: Nicole Huynh
     email: n2huynh@ucsd.edu
     type: IA
     office_hours:
@@ -49,7 +49,7 @@ instructional_assistants:
         location: FAH / Zoom
         zoom_link: https://ucsd.zoom.us/j/95232938841
         zoom_pw: 
-  - name: Ryan Vinh Khang Cao
+  - name: Ryan Cao
     email: rycao@ucsd.edu
     type: IA
     office_hours:
