@@ -56,7 +56,7 @@ instructional_assistants:
       - day: Mon
         time: 3:00-3:50PM
         location: Zoom
-        zoom_link: NA
+        zoom_link: https://ucsd.zoom.us/j/99152339794
         zoom_pw: 
   - name: Derek Kuang
     email: zakuang@ucsd.edu
