@@ -9,7 +9,7 @@ permalink: /final-group-project/part-one
 
 <h1>Final Part 1</h1>
 
-- Project part 1 Google Doc <a href="https://docs.google.com/document/d/1w35JUgmvKnc1hzfg309eRrfCosUR2Gi-J4HWthtrx8U/edit?usp=sharing" target="_blank" rel="noopener">view &#x2197;</a>
+- Project part 1 Google Doc <a href="https://docs.google.com/document/d/1JyiWKQIh7wRAmH7CW_rtgqm7ucBtfQyDL33VMRQP4_c/edit?tab=t.0" target="_blank" rel="noopener">view &#x2197;</a>
 
 
 <h2>Instructions</h2>
