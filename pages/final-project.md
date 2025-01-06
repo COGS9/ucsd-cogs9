@@ -16,4 +16,4 @@ Your Final Project will have the following sections: Question, Hypothesis, Backg
 
 Remember to proofread your essays and that you are not using overly flowery and/or vague language. Use as few words as possible, but no less, to describe your approach. Concision is key, you wouldn’t over engineer a system. Correct? Why would you over engineer your prose? Think Hemmingway, not Faulkner. A small portion of your grade will be dependent on your ability to write clearly, logically, and without errors that should be caught during proofreading.
 
-You will turn in one PDF as a group into Gradescope by the due date for part 1 and part 2. There are no late submissions accepted, unless there is an issue outside of your control. If so, email your course instructor and all your teammates before the due date.
+You will turn in one PDF as a group into Gradescope by the due date for part 1 and part 2. Any late submission will have 5 points deducted immediately, and a further 5 points deducted after 24 hours. Submissions later than 48 hours will get 0. 
