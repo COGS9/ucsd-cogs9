@@ -22,3 +22,5 @@ Quizzes will cover the reading material assigned, e.g. Quiz 1 only covers materi
 - Open notes, but you must work alone
 - Taken and submitted through Gradescope
 - Your 2 lowest quiz score will be dropped when calculating your final grade. Late reading quizzes will be accepted up to 48 hours; however, they will receive ½ credit.
+
+Quiz links can be found on the home page or through Canvas. 
