@@ -33,6 +33,7 @@ Do not make multiple submissions on Gradescope per group member. You submit the 
 - Tips and advice from a previous Cogs 9 student <a href="https://s3.us-west-2.amazonaws.com/ucsd.cogs9/assignments/assignment-1-advice.pdf" target="_blank" rel="noopener">download &#x2197;</a>
 - Example 1, previous A+ Cogs 9 part 1 <a href="https://s3.us-west-2.amazonaws.com/ucsd.cogs9/assignments/assignment-1-example-1.pdf" target="_blank" rel="noopener">download &#x2197;</a>
 - Example 2, previous A+ Cogs 9 part 1 <a href="https://s3.us-west-2.amazonaws.com/ucsd.cogs9/assignments/assignment-1-example-2.pdf" target="_blank" rel="noopener">download &#x2197;</a>
+NB the questions have changed slightly since previous years. 
 
 <h2>Frequently Asked Questions - FAQ</h2>
 
