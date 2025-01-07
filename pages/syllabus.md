@@ -194,4 +194,8 @@ If you have…
 - **questions about course content** - these are awesome! We want everyone to see them and have their questions answered, please post questions on Piazza or ask during class/office hours.
 - **questions about course logistics** - first, check the syllabus. If the answer is not there, ask in Section, ask a classmate, or ask during class/office hours.
 - **something super cool to share related to class** - feel free message on Piazza, email Dr Burrows [dburrows@ucsd.edu](dburrows@ucsd.edu)), or come to office hours. Be sure to include COGS 9 in the email subject line and your full name in your message.
-- **something you want to talk about in-depth** - meet in person/digitally during office hours or schedule a time to meet 1:1 by email. Be sure to include COGS 9 in the email subject line. Or it may be missed. [dburrows@ucsd.edu](dburrows@ucsd.edu). 
+- **something you want to talk about in-depth** - meet in person/digitally during office hours or schedule a time to meet 1:1 by email. Be sure to include COGS 9 in the email subject line. Or it may be missed. [dburrows@ucsd.edu](dburrows@ucsd.edu).
+- If you ever want to leave anonymous feedback, negative or positive, this is strongly encouraged. This is as much a learning experience for me as it is for you. You can leave anonymous feedback
+[here](https://docs.google.com/forms/d/e/1FAIpQLSfonBK1nNGoD2_L9H7YQZVAW5BGZVIA0ARV_BeeLs3NVBWThg/viewform?usp=sharing).
+
+ 
