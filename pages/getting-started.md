@@ -10,7 +10,7 @@ permalink: /getting started
 # Getting Started
 
 1. Join the COGS 9 **ClassQuestion**: 
-   - Used for lecture Q&A and attendance (which is not required but is incentivized; see syllabus)
+   - Used for lecture Q&A
    - ClassQuestion link: **[https://classquestion.com/](https://classquestion.com/)**
    - Entry code: RQFKP
    -  When registering for ClassQuestion you must use your **Student ID/PID** and **UCSD Email**.
