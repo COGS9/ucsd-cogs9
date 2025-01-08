@@ -40,7 +40,7 @@ permalink: /syllabus/
 | Final Project pt. 2                           |               20 |               40   |
 | 1 Final Exam                                  |               20 |               40   |
 | Guest Lecture Attendance                      |              2.5 |                5   |
-| Extra Credit Attendance                       |              2.5 |                5   |
+| Normal Lecture Attendance                     |              2.5 |                5   |
 
 ### Final Grades
 
@@ -78,7 +78,8 @@ The regrade policy is here to protect students from serious issues in grading, n
 ### Lecture Attendance
 Our goal is to make lectures and office hours worthwhile to attend (e.g. we do in-class exercises). However, lecture attendance is not required. All lectures will be recorded. These will be made available to you (UCSD podcast). 
 
-That said, we have found that students who come to lecture and are engaged fully learn the most (which is our goal!). We also know that students have a lot on their plate (which is why we don't *require* attendance). To this end, we will incentivize lecture attendance. **Students who attend 75% of all lectures throughout the quarter will get extra credit** (see Course Components & Points). Attendance will be tracked through student responses using the ClassQuestion app. To earn credit for a given class day, you must respond to at least 50% of the day's questions. (Correctness does not matter.) That said, **attendance is required on guest lecture days**, and attendance at all guest lectures will constitute your Guest Lecture attendance grade.
+That said, we have found that students who come to lecture and are engaged fully learn the most (which is our goal!). We also know that students have a lot on their plate (which is why we don't *require* attendance). To this end, we will incentivize lecture attendance. **2.5% of the course grade will come from lecture attendance - if you attend >75% of the regular lectures you will get this 2.5% mark** (see Course Components & Points). Attendance will be tracked through student responses using the ClassQuestion app. 
+That said, **attendance is required on guest lecture days**, and attendance at all guest lectures will constitute your Guest Lecture attendance grade.
 
 ### Discussion Attendance
 Discussion attendance is not mandatory. Readings will be discussed and lecture material will be reviewed in section, so it is to your benefit to go, participate, and ask questions. Also final group projects will be formed and assigned in week 2 discussion section so please attend this. 
