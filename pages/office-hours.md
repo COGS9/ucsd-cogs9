@@ -71,7 +71,19 @@ Office hours are a great place to personally interact. Beyond projects and cours
     </tbody>
 </table>
 
-Zoom Links can be found on Canvas homepage.
+Zoom Links:
+**[Dominic Burrows](https://ucsd.zoom.us/j/8134812385)**
+**[Zhining](https://ucsd.zoom.us/j/6406707430?pwd=MnE3ek16UFVRRDZOL3FLekpUaGI0QT09)**
+**[Qisen](https://ucsd.zoom.us/j/9154753966)**
+**[Nicole](https://ucsd.zoom.us/j/95232938841)**
+**[Ryan](https://ucsd.zoom.us/j/99152339794)**
+**[Derek](https://ucsd.zoom.us/j/8992245079?omn=93563584893)**
+**[Jiawei](https://uchealth.zoom.us/j/84325316380)**
+
+
+
+
+
 
 {: .note .fs-3 }
 If you are unable to join or are having other issues, please reach out before or after class (I try to get to class a few minutes early and can stay for a few minutes after, although I do teach a class right after this one so can't stay too long) or in the discussion sections.
