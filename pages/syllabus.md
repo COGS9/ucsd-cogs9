@@ -76,9 +76,9 @@ The regrade policy is here to protect students from serious issues in grading, n
 - We will get back to you within 48 hours after regrades close with our final decision.
 
 ### Lecture Attendance
-Our goal is to make lectures and office hours worthwhile to attend (e.g. we do in-class exercises). However, lecture attendance is not required. All lectures will be recorded. These will be made available to you (UCSD podcast). 
+Our goal is to make lectures and office hours worthwhile to attend (e.g. we do in-class exercises, demonstrations, discussions and data collection). However, lecture attendance is not required. All lectures will be recorded. These will be made available to you (UCSD podcast). 
 
-That said, we have found that students who come to lecture and are engaged fully learn the most (which is our goal!). We also know that students have a lot on their plate (which is why we don't *require* attendance). To this end, we will incentivize lecture attendance. **2.5% of the course grade will come from lecture attendance - if you attend >75% of the regular lectures you will get this 2.5% mark** (see Course Components & Points). Attendance will be tracked through student responses using the ClassQuestion app. 
+That said, we have found that students who come to lecture and are engaged fully learn the most (which is our goal!). We also know that students have a lot on their plate (which is why we don't *require* attendance). To this end, we will incentivize lecture attendance. **2.5% of the course grade will come from lecture attendance - if you attend >50% of the regular lectures you will get this 2.5% mark** (see Course Components & Points). Attendance will be tracked through student responses using the ClassQuestion app. 
 That said, **attendance is required on guest lecture days**, and attendance at all guest lectures will constitute your Guest Lecture attendance grade.
 
 ### Discussion Attendance
