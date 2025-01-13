@@ -17,3 +17,8 @@ Your Final Project will have the following sections: Question, Hypothesis, Backg
 Remember to proofread your essays and that you are not using overly flowery and/or vague language. Use as few words as possible, but no less, to describe your approach. Concision is key, you wouldn’t over engineer a system. Why would you over engineer your prose? Think Hemmingway, not Faulkner. A small portion of your grade will be dependent on your ability to write clearly, logically, and without errors that should be caught during proofreading.
 
 You will turn in one PDF as a group into Gradescope by the due date for part 1 and part 2. Any late submission will have 5 points deducted immediately, and a further 5 points deducted after 24 hours. Submissions later than 48 hours will get 0. 
+
+Add your group name and member PIDs here:
+https://tinyurl.com/cogs9project 
+it is up to your team to add your information here and make any amendments.
+After the 27th of January this spreadsheet will be locked, and any further changes must go through Dr Burrows. We strongly urge you to form your team by the 27th. 
