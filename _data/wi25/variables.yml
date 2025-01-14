@@ -64,7 +64,7 @@ instructional_assistants:
     office_hours:
       - day: Tues
         time: 2:00-3:00PM
-        location: CSB114 / Zoom
+        location: Zoom
         zoom_link: https://ucsd.zoom.us/j/8992245079?omn=93563584893
         zoom_pw:
   - name: Jiawei li
