@@ -20,5 +20,6 @@ You will turn in one PDF as a group into Gradescope by the due date for part 1 a
 
 Add your group name and member PIDs here:
 https://tinyurl.com/cogs9project 
-it is up to your team to add your information here and make any amendments.
+
+It is up to your team to add your information here and make any amendments.
 After the 27th of January this spreadsheet will be locked, and any further changes must go through Dr Burrows. We strongly urge you to form your team by the 27th. 
