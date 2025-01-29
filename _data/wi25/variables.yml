@@ -76,6 +76,15 @@ instructional_assistants:
         location: SSRB / Zoom (meet at Social Sciences Research Building 1st floor at start, if arriving later email instructor)
         zoom_link: https://uchealth.zoom.us/j/84325316380
         zoom_pw:
+  - name: Anirudh Annabathula
+    email: vannabathula@ucsd.edu
+    type: IA
+    office_hours:
+      - day: Tues
+        time: 3:30-4:30PM
+        location: Zoom
+        zoom_link:  https://ucsd.zoom.us/j/4942532247
+        zoom_pw: 
 
 discussion_sections:
   - section: A01
@@ -91,7 +100,7 @@ discussion_sections:
     time: 10:00-10:50AM
     location: CSB 004
     ta: Zhining
-    ia: Jiawei
+    ia: Jiawei, Anirudh
     materials: https://drive.google.com/drive/folders/1mtV9NyZbSgLo0n8NL_uYabWAEcGHcBf0?usp=sharing
 
   - section: A03
