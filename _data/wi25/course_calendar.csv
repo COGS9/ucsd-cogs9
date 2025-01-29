@@ -11,20 +11,20 @@ date,title,label,link
 2025-01-28,Data Visualisation,LECT,https://drive.google.com/file/d/1LYQcXyYznDDvAwJ5LIl47a_eNe8wrQfY/view?usp=drive_link
 2025-01-30,Exploratory Data Analysis,LECT,
 2025-01-31,Quiz 3 due,QUIZ,https://www.gradescope.com/courses/939942
-2025-02-04,Communicating Data Science,LECT,
-2025-02-06,Statistical Learning,LECT,
+2025-02-04,Statistical Learning,LECT,
+2025-02-06,Classification vs Regression,LECT,
 2025-02-07,Assignment 1 due,ASSG,https://www.gradescope.com/courses/939942
-2025-02-11,Classification vs Regression,LECT,
-2025-02-13,Model Selection,LECT,
+2025-02-11,Model Training & Selection,LECT,
+2025-02-13,Dimensionality Reduction,LECT,
 2025-02-14,Quiz 4 due,QUIZ,https://www.gradescope.com/courses/939942
 2025-02-14,Final Project Part 1 due,PROJ,https://www.gradescope.com/courses/939942
-2025-02-18,Dimensionality Reduction,LECT,
-2025-02-20,Clustering,LECT,
+2025-02-18,Clustering,LECT,
+2025-02-20,Deep Learning,LECT,
 2025-02-21,Assignment 2 due,ASSG,https://www.gradescope.com/courses/939942
 2025-02-25,Spatial Data Science in Neuroscience: Alon Gelber,GLCT,
 2025-02-27,Classification in Genetics Data: Mike Cuoco,GLCT,
 2025-02-28,Quiz 5 due,QUIZ,https://www.gradescope.com/courses/939942
-2025-03-04,Deep Learning,LECT,
+2025-03-04,Communicating Data Science,LECT,
 2025-03-06,Natural Language Processing: Ross Devito,GLCT,
 2025-03-07,Assignment 3 due,ASSG,https://www.gradescope.com/courses/939942
 2025-03-11,The Future of Data Science,LECT,
